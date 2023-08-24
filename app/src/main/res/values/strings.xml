@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mycontactlistapp</string>
+    <string name="name_recquired">firstname is recquired</string>
+    <string name="second_required">secondname is recquired</string>
+    <string name="email_required">email is recquired</string>
+    <string name="number_required">number is recquired</string>
 </resources>
